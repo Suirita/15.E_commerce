@@ -31,61 +31,61 @@
   <tr>
     <td>Monday</td>
     <td>Planning</td>
-    <td></td>
-    <td></td>
+    <td>Self Training</td>
+    <td>Self Training</td>
   </tr>
   <tr>
     <td>Tuesday</td>
     <td>-</td>
     <td>-</td>
-    <td></td>
+    <td>Prepering slides</td>
   </tr>
   <tr>
     <td>Wednesday</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Workshop</td>
+    <td>Workshop</td>
+    <td>Technical + Functional branches</td>
   </tr>
   <tr>
     <td>Thursday</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Prototype</td>
+    <td>Prototype</td>
+    <td>Prototype</td>
   </tr>
   <tr>
     <td>Friday</td>
-    <td></td>
-    <td></td>
+    <td>Realization</td>
+    <td>Realization</td>
     <td>-</td>
   </tr>
   <tr>
     <td>Monday</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Realization</td>
+    <td>Realization</td>
+    <td>Realization</td>
   </tr>
   <tr>
     <td>Tuesday</td>
     <td>-</td>
     <td>-</td>
-    <td></td>
+    <td>Realization</td>
   </tr>
   <tr>
     <td>Wednesday</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Realization</td>
+    <td>Realization</td>
+    <td>Realization</td>
   </tr>
   <tr>
     <td>Thursday</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Realization</td>
+    <td>Realization</td>
+    <td>Realization</td>
   </tr>
   <tr>
     <td>Friday</td>
-    <td></td>
-    <td></td>
+    <td>Realization</td>
+    <td>Realization</td>
     <td>-</td>
   </tr>
 </table>
