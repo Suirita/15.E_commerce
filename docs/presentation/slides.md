@@ -1,10 +1,7 @@
-## **Blog app**
+## **Watches E-commerce**
 
 - Presented by:
   - SUIRITA Fahd
-  - BOUGTOUB Samia
-  - TRIBAK Ayoub
-  - BAKALI Ayoub
 - Framed by:
   - ESSARRAJ Fouad
 
@@ -24,7 +21,7 @@
 
 ### **3. Planning:**
 
-<table style="font-size: 38px" >
+<table style="font-size: 28px" >
   <tr>
     <th></th>
     <th>1</th>
@@ -109,16 +106,21 @@
 
 ### **6. Learning:**
 
-- laravel/ui
-- spatie
+- Blade
+- Controller
+- Model
+- Repository
+- Ajax
 
 ---
 
 ### **7. Prototype:**
 
-- view articles
-- add article
-- delete article
+- view product
+- add product
+- delete product
+- ajax (one-page)
+- repository
 
 ---
 
