@@ -121,6 +121,7 @@
 - 4.1. Capture de besoins techniques
 - 4.2. Analyse technique
 - 4.3. Auto-formation
+- 4.4. Conception generique
 
 |||
 
@@ -165,7 +166,7 @@
 - 5.1. Capture de besoins fonctionnels
 - 5.2. Analyse fonctionnelle
 - 5.3. Sprint 1
-- 5.3. Sprint 2
+- 5.4. Sprint 2
 
 |||
 
