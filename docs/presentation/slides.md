@@ -49,7 +49,7 @@
   <tr>
     <td>Thursday</td>
     <td>Prototype</td>
-    <td>Prototype</td>
+    <td>Fil rouge</td>
     <td>Prototype</td>
   </tr>
   <tr>
