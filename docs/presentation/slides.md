@@ -1,25 +1,58 @@
-## **Watches E-commerce**
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="../assets/img/Solicode_logo.png" alt="Solicode logo" style="width: 150px; height: 120px">
+    <img src="../assets/img/OFPPT_logo.png" alt="OFPPT logo" style="width: 150px; height: 120px;">
+</div>
 
-- Presented by:
-  - SUIRITA Fahd
-- Framed by:
-  - ESSARRAJ Fouad
+## **Whaches E-commerce**
+
+- Présenté par: SUIRITA Fahd
+- Encadré par: ESSARRAJ Fouad
 
 ---
 
-### **1. Introduction**
+### **1. Introduction:**
 
 <img src="assets/Introduction.avif" alt="Introduction" style="width: 600px; height: auto;" />
 
 ---
 
-### **2-2TUP Methodology:**
+### **2. Contexte du projet:**
 
-<img src="assets/2_TUP.png" alt="2TUP" style="width: 600px; height: auto;" />
+<img src="assets/Contexte_du_projet.png" alt="Contexte du projet" style="width: 600px; height: auto;" />
 
 ---
 
-### **3. Planning:**
+### **3. Methode de travail:**
+
+- 3.1. Scrum
+- 3.2. 2TUP
+- 3.3. UX design
+
+|||
+
+#### **3.1. Scrum:**
+
+<img src="assets/Scrum.png" alt="Scrum" style="width: 600px; height: auto;" />
+
+|||
+
+#### **3.2. 2TUP:**
+
+<img src="assets/2TUP.png" alt="2TUP" style="width: 600px; height: auto;" />
+
+|||
+
+#### **3.3. UX design:**
+
+<img src="assets/UX_design.png" alt="UX design" style="width: 600px; height: auto;" />
+
+---
+
+### **4. Planification:**
+
+|||
+
+#### **4.1. Planification:**
 
 <table style="font-size: 28px" >
   <tr>
@@ -90,44 +123,106 @@
   </tr>
 </table>
 
----
+|||
 
-### **4. Analyse:**
-
-<img src="assets/Analyse.svg" alt="Analyse" style="width: 600px; height: auto;" />
+#### **4.2. Diagramme de Gantt:**
 
 ---
 
-### **5. Design:**
+### **5. Branche technique:**
 
-<img src="assets/Design.svg" alt="Design" style="width: 600px; height: auto;" />
+- 5.1. Capture de besoins techniques
+- 5.2. Analyse technique
+- 5.3. Auto-formation
 
----
+|||
 
-### **6. Learning:**
+#### **5.1. Capture de besoins techniques:**
 
-- Blade
-- Controller
-- Model
-- Repository
+- Tailwind CSS
+- Ajax
+- Laravel
+- MySQL
+
+|||
+
+#### **5.2. Analyse technique:**
+
+- Advenced Laravel
+- One page application (AJAX)
+
+|||
+
+#### **5.3. Auto-formation:**
+
+- Advenced Blade
+- Advenced Controller
+- Advenced Model
+- Manager
 - Ajax
 
----
-
-### **7. Prototype:**
-
-- view product
-- add product
-- delete product
-- ajax (one-page)
-- repository
+|||
 
 ---
 
-### **8. Realization:**
+### **6. Branche fonctionnelle:**
+
+- 6.1. Carte d’empathie
+- 6.2. Définir le problème
+- 6.3. Idéation
+- 6.4. Diagramme de cas d’utilisation sprint 1
+- 6.5. Diagramme de cas d’utilisation sprint 2
+
+|||
+
+#### **6.1. Carte d’empathie:**
+
+<img src="../assets/img/Carte_d’empathie.svg" alt=" Carte d’empathie" height="500px">
+
+|||
+
+#### **6.2. Définir le problème:**
+
+|||
+
+#### **6.3. Idéation (diagramme de cas d’utilisation):**
+
+<img src="../assets/img/Idéation.svg" alt="Idéation" height="500px">
+
+|||
+
+#### **6.4. Diagramme de cas d’utilisation sprint 1:**
+
+<img src="../assets/img/Sprint_1.svg" alt="sprint 1" height="500px">
+
+|||
+
+#### **6.5. Diagramme de cas d’utilisation sprint 2:**
+
+<img src="../assets/img/Sprint_2.svg" alt="sprint 2" height="500px">
+
+---
+
+### **7. Conception:**
+
+- 7.1. Diagramme de class
+- 7.2. Maquette
+
+|||
+
+#### **7.1. Diagramme de class:**
+
+<img src="../assets/img/Diagramme_de_class.svg" alt="Diagramme de class" height="600px">
+
+|||
+
+#### **7.2. Maquette:**
+
+<img src="../assets/img/Maquette.svg" alt="Maquette" height="600px">
+|||
+
+### **8. Réalisation:**
 
 ---
 
 ### **9. Conclusion:**
-
-<img src="assets/Conclusion.svg" alt="Conclusion" style="width: 600px; height: auto;" />
