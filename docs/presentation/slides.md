@@ -16,43 +16,30 @@
 
 ---
 
-### **2. Contexte du projet:**
+### **2. Methode de travail:**
 
-<img src="assets/Contexte_du_projet.png" alt="Contexte du projet" style="width: 600px; height: auto;" />
-
----
-
-### **3. Methode de travail:**
-
-- 3.1. Scrum
-- 3.2. 2TUP
-- 3.3. UX design
+- 2.1. Scrum
+- 2.2. 2TUP
 
 |||
 
-#### **3.1. Scrum:**
+#### **2.1. Scrum:**
 
 <img src="assets/Scrum.png" alt="Scrum" style="width: 600px; height: auto;" />
 
 |||
 
-#### **3.2. 2TUP:**
+#### **2.2. 2TUP:**
 
 <img src="assets/2TUP.png" alt="2TUP" style="width: 600px; height: auto;" />
 
-|||
-
-#### **3.3. UX design:**
-
-<img src="assets/UX_design.png" alt="UX design" style="width: 600px; height: auto;" />
-
 ---
 
-### **4. Planification:**
+### **3. Planification:**
 
 |||
 
-#### **4.1. Planification:**
+#### **3.1. Planification:**
 
 <table style="font-size: 28px" >
   <tr>
@@ -125,19 +112,19 @@
 
 |||
 
-#### **4.2. Diagramme de Gantt:**
+#### **3.2. Diagramme de Gantt:**
 
 ---
 
-### **5. Branche technique:**
+### **4. Branche technique:**
 
-- 5.1. Capture de besoins techniques
-- 5.2. Analyse technique
-- 5.3. Auto-formation
+- 4.1. Capture de besoins techniques
+- 4.2. Analyse technique
+- 4.3. Auto-formation
 
 |||
 
-#### **5.1. Capture de besoins techniques:**
+#### **4.1. Capture de besoins techniques:**
 
 - Tailwind CSS
 - Ajax
@@ -146,83 +133,69 @@
 
 |||
 
-#### **5.2. Analyse technique:**
+#### **4.2. Analyse technique:**
 
-- Advenced Laravel
+- Laravel avencer
 - One page application (AJAX)
 
-|||
+|||5
+#### **4.3. Auto-formation:**
 
-#### **5.3. Auto-formation:**
-
-- Advenced Blade
-- Advenced Controller
-- Advenced Model
+- Blade avencer
+- Controller avencer
+- Model avencer
 - Manager
 - Ajax
 
-|||
-
 ---
 
-### **6. Branche fonctionnelle:**
+### **5. Branche fonctionnelle:**
 
-- 6.1. Carte d’empathie
-- 6.2. Définir le problème
-- 6.3. Idéation
-- 6.4. Diagramme de cas d’utilisation sprint 1
-- 6.5. Diagramme de cas d’utilisation sprint 2
+- 5.1. diagramme de cas d’utilisation
+- 5.2. Diagramme de cas d’utilisation sprint 1
+- 5.3. Diagramme de cas d’utilisation sprint 2
 
 |||
 
-#### **6.1. Carte d’empathie:**
+#### **5.1. Diagramme de cas d’utilisation:**
 
-<img src="../assets/img/Carte_d’empathie.svg" alt=" Carte d’empathie" height="500px">
-
-|||
-
-#### **6.2. Définir le problème:**
+<img src="../assets/img/diagramme_de_cas_d’utilisation.svg" alt="Diagramme de cas d’utilisation" height="500px">
 
 |||
 
-#### **6.3. Idéation (diagramme de cas d’utilisation):**
-
-<img src="../assets/img/Idéation.svg" alt="Idéation" height="500px">
-
-|||
-
-#### **6.4. Diagramme de cas d’utilisation sprint 1:**
+#### **5.2. Diagramme de cas d’utilisation sprint 1:**
 
 <img src="../assets/img/Sprint_1.svg" alt="sprint 1" height="500px">
 
 |||
 
-#### **6.5. Diagramme de cas d’utilisation sprint 2:**
+#### **5.3. Diagramme de cas d’utilisation sprint 2:**
 
 <img src="../assets/img/Sprint_2.svg" alt="sprint 2" height="500px">
 
 ---
 
-### **7. Conception:**
+### **6. Conception:**
 
-- 7.1. Diagramme de class
-- 7.2. Maquette
+- 6.1. Diagramme de class
+- 6.2. Maquette
 
 |||
 
-#### **7.1. Diagramme de class:**
+#### **6.1. Diagramme de class:**
 
 <img src="../assets/img/Diagramme_de_class.svg" alt="Diagramme de class" height="600px">
 
 |||
 
-#### **7.2. Maquette:**
+#### **6.2. Maquette:**
 
 <img src="../assets/img/Maquette.svg" alt="Maquette" height="600px">
-|||
-
-### **8. Réalisation:**
 
 ---
 
-### **9. Conclusion:**
+### **7. Réalisation:**
+
+---
+
+### **8. Conclusion:**
