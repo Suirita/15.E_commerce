@@ -3,7 +3,7 @@
     <img src="../assets/img/OFPPT_logo.png" alt="OFPPT logo" style="width: 150px; height: 120px;">
 </div>
 
-## **Whaches E-commerce**
+## **Watches E-commerce**
 
 - Présenté par: SUIRITA Fahd
 - Encadré par: ESSARRAJ Fouad
