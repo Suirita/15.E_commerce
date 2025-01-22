@@ -69,8 +69,8 @@
   <tr>
     <td>Thursday</td>
     <td>Prototype</td>
-    <td>Fil rouge</td>
     <td>Prototype</td>
+    <td>Fil rouge</td>
   </tr>
   <tr>
     <td>Friday</td>
@@ -139,6 +139,7 @@
 - One page application (AJAX)
 
 |||5
+
 #### **4.3. Auto-formation:**
 
 - Blade avencer
