@@ -12,7 +12,7 @@
 
 ### **1. Introduction:**
 
-<img src="assets/Introduction.avif" alt="Introduction" style="width: 600px; height: auto;" />
+<img src="../assets/img/Introduction.png" alt="Introduction" style="width: 600px; height: auto;" />
 
 ---
 
@@ -25,13 +25,13 @@
 
 #### **2.1. Scrum:**
 
-<img src="assets/Scrum.png" alt="Scrum" style="width: 600px; height: auto;" />
+<img src="../assets/img/Scrum.jpg" alt="Scrum" style="width: 800px; height: auto;" />
 
 |||
 
 #### **2.2. 2TUP:**
 
-<img src="assets/2TUP.png" alt="2TUP" style="width: 600px; height: auto;" />
+<img src="../assets/img/2TUP.png" alt="2TUP" style="width: 600px; height: auto;" />
 
 ---
 
@@ -135,42 +135,59 @@
 
 #### **4.2. Analyse technique:**
 
-- Laravel avencer
+- Laravel Avancé
 - One page application (AJAX)
 
-|||5
+|||
 
 #### **4.3. Auto-formation:**
 
-- Blade avencer
-- Controller avencer
-- Model avencer
+- Blade Avancé
+- Controller Avancé
+- Model Avancé
 - Manager
 - Ajax
+
+|||
+
+#### **4.4. Conception generique:**
+
+- afficher un produit
+- ajouter un produit
+- supprimer un produit
+- one-page
+- Manager
 
 ---
 
 ### **5. Branche fonctionnelle:**
 
-- 5.1. diagramme de cas d’utilisation
-- 5.2. Diagramme de cas d’utilisation sprint 1
-- 5.3. Diagramme de cas d’utilisation sprint 2
+- 5.1. Capture de besoins fonctionnels
+- 5.2. Analyse fonctionnelle
+- 5.3. Sprint 1
+- 5.3. Sprint 2
 
 |||
 
-#### **5.1. Diagramme de cas d’utilisation:**
+#### **5.1. Capture de besoins fonctionnels:**
+
+<img src="../assets/img/Cas_utilisation.svg" alt="Cas d’utilisation" height="500px">
+
+|||
+
+#### **5.2. Analyse fonctionnelle:**
 
 <img src="../assets/img/diagramme_de_cas_d’utilisation.svg" alt="Diagramme de cas d’utilisation" height="500px">
 
 |||
 
-#### **5.2. Diagramme de cas d’utilisation sprint 1:**
+#### **5.3. Sprint 1:**
 
 <img src="../assets/img/Sprint_1.svg" alt="sprint 1" height="500px">
 
 |||
 
-#### **5.3. Diagramme de cas d’utilisation sprint 2:**
+#### **5.4. Sprint 2:**
 
 <img src="../assets/img/Sprint_2.svg" alt="sprint 2" height="500px">
 
