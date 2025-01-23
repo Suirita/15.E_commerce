@@ -121,7 +121,7 @@
 - 4.1. Capture de besoins techniques
 - 4.2. Analyse technique
 - 4.3. Auto-formation
-- 4.4. Conception generique
+- 4.4. Conception generique 
 
 |||
 
