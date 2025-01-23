@@ -172,13 +172,13 @@
 
 #### **5.1. Capture de besoins fonctionnels:**
 
-<img src="../assets/img/Cas_utilisation.svg" alt="Cas d’utilisation" height="500px">
+<img src="../assets/img/Besoins_fonctionnels.svg" alt="Besoins fonctionnels" height="500px">
 
 |||
 
 #### **5.2. Analyse fonctionnelle:**
 
-<img src="../assets/img/diagramme_de_cas_d’utilisation.svg" alt="Diagramme de cas d’utilisation" height="500px">
+<img src="../assets/img/Diagramme_de_cas_d’utilisation.svg" alt="Diagramme de cas d’utilisation" height="500px">
 
 |||
 
