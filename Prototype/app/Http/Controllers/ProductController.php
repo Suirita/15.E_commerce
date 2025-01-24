@@ -52,7 +52,7 @@ class ProductController extends Controller
             'price' => 'required|numeric',
         ]);
 
-        $this->productRepository->storeProduct($validatedData);
+        $this->productRepository->createProduct($validatedData);
 
         return redirect()->route('products.index');
     }

@@ -15,9 +15,9 @@ class ProductRepository
     }
 
     /**
-     * Store a new product.
+     * Create a new product.
      */
-    public function storeProduct(array $data)
+    public function createProduct(array $data)
     {
         return Product::create($data);
     }
