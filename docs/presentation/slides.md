@@ -41,7 +41,7 @@
 
 #### **3.1. Planification:**
 
-<table style="font-size: 28px" >
+<table style="font-size: 28px">
   <tr>
     <th></th>
     <th>1</th>
@@ -49,63 +49,63 @@
     <th>3</th>
   </tr>
   <tr>
-    <td>Monday</td>
-    <td>Planning</td>
-    <td>Self Training</td>
-    <td>Self Training</td>
+    <td>Lundi</td>
+    <td>Planification</td>
+    <td>Auto-formation</td>
+    <td>Auto-formation</td>
   </tr>
   <tr>
-    <td>Tuesday</td>
+    <td>Mardi</td>
     <td>-</td>
     <td>-</td>
-    <td>Prepering slides</td>
+    <td>Préparation des diapositives</td>
   </tr>
   <tr>
-    <td>Wednesday</td>
-    <td>Workshop</td>
-    <td>Workshop</td>
-    <td>Technical + Functional branches</td>
+    <td>Mercredi</td>
+    <td>Atelier</td>
+    <td>Atelier</td>
+    <td>Branches techniques + fonctionnelles</td>
   </tr>
   <tr>
-    <td>Thursday</td>
+    <td>Jeudi</td>
     <td>Prototype</td>
     <td>Prototype</td>
     <td>Fil rouge</td>
   </tr>
   <tr>
-    <td>Friday</td>
-    <td>Realization</td>
-    <td>Realization</td>
+    <td>Vendredi</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>Monday</td>
-    <td>Realization</td>
-    <td>Realization</td>
-    <td>Realization</td>
+    <td>Lundi</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
   </tr>
   <tr>
-    <td>Tuesday</td>
+    <td>Mardi</td>
     <td>-</td>
     <td>-</td>
-    <td>Realization</td>
+    <td>Réalisation</td>
   </tr>
   <tr>
-    <td>Wednesday</td>
-    <td>Realization</td>
-    <td>Realization</td>
-    <td>Realization</td>
+    <td>Mercredi</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
   </tr>
   <tr>
-    <td>Thursday</td>
-    <td>Realization</td>
-    <td>Realization</td>
-    <td>Realization</td>
+    <td>Jeudi</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
   </tr>
   <tr>
-    <td>Friday</td>
-    <td>Realization</td>
-    <td>Realization</td>
+    <td>Vendredi</td>
+    <td>Réalisation</td>
+    <td>Réalisation</td>
     <td>-</td>
   </tr>
 </table>
@@ -121,7 +121,7 @@
 - 4.1. Capture de besoins techniques
 - 4.2. Analyse technique
 - 4.3. Auto-formation
-- 4.4. Conception generique 
+- 4.4. Conception generique
 
 |||
 
